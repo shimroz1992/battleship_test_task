@@ -1,0 +1,16 @@
+Player1 Grid:
+B O _ O
+_ B _ O
+_ O B _
+_ _ O _
+
+Player2 Grid:
+O _ _ _
+_ O _ X
+_ B O _
+B _ _ O
+
+Player 1 Hits: 1
+Player 2 Hits: 0
+
+Game Result: Player 1 wins
